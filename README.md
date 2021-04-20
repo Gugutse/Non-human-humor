@@ -1,1 +1,1 @@
-# Surely-you-re-joking-ruGPT-3
+# Surely you're joking, ruGPT-3!
