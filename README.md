@@ -17,7 +17,7 @@
 
 ## Baseline
 
-В [ноутбуке](Surely_you_re_joking_ru_GPT_3.ipynb) вы можете найти пример генерации коротких забавных текстов с нуля на русском языке с помощью модели ruGPT-3 от Сбера. В качестве обучающих данных используется [датасет русскоязычных шуток](https://github.com/computational-humor/humor-recognition/tree/master/data)<sup>1</sup>.
+В [ноутбуке](Surely_you_re_joking_ru_GPT_3.ipynb) вы можете найти пример генерации коротких забавных текстов с нуля на русском языке с помощью модели ruGPT-3 от Сбера. В качестве обучающих данных используется [датасет русскоязычных шуток](https://github.com/computational-humor/humor-recognition/tree/master/data)<sup>1</sup> (10 тыс. примеров из ~126 тыс. текстов, определенных как "шутка").
 
 
 ## Данные
